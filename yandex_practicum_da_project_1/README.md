@@ -16,4 +16,4 @@
 
 
 
-Ознакомиться с выполненной работой: https://github.com/ishunkinsa/yandex_practicum_da_project_1/blob/main/online_store_mark_1.ipynb
+Ознакомиться с выполненной работой: https://github.com/ishunkinsa/yandex_practicum_DA/blob/main/yandex_practicum_da_project_1/online_store_mark_1.ipynb
